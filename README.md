@@ -31,7 +31,10 @@ This vulnerability aligns with Broken Access Control (A01:2021) in the OWASP Top
 
     Observe that URLs fetching photos are predictable and do not validate access permissions, e.g., https://lh3.googleusercontent.com/....
 
-4. Access Private Photos
+   ![Alt Text](https://private-user-images.githubusercontent.com/69685878/388443585-a77f524b-fc41-4fcf-85be-63d580ac3c8e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIxODE4NzcsIm5iZiI6MTczMjE4MTU3NywicGF0aCI6Ii82OTY4NTg3OC8zODg0NDM1ODUtYTc3ZjUyNGItZmM0MS00ZmNmLTg1YmUtNjNkNTgwYWMzYzhlLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTIxVDA5MzI1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNkOGM2YmRhZDliN2Y2MDkyOGJiYzNjYmFlY2EzMjZmNmM5MDVjNWEzMzIyNDYwMGM3Yzg4YjQ2NTExN2U4YmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.kc1xE7menul4OYDAfMAYYSJIqzS5qSJUveyTzVPFhmA)
+
+
+5. Access Private Photos
 
     Paste the captured URL into an incognito browser window to confirm unauthorized access to the media.
 
