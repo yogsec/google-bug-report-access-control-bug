@@ -1,5 +1,8 @@
-# Google-Bug-Report-Broken-Access-Control
+# Google-Bug-Report-Broken-Access-Control-In-Google-Photos
 A comprehensive report on a Broken Access Control vulnerability in Google Photos, exposing unauthorized access to private photos. This repository includes proof of concept, impact analysis, and mitigation recommendations for better security practices.
+
+![Alt Text](https://sm.mashable.com/mashable_in/seo/default/untitledaman-pandey-tops-the-google-bug-bounty-rewards-in-20_jd6p.jpg)
+
 
 # Summary
 Google Photos has a broken access control vulnerability that may expose private user photos to unauthorized access. Insufficient access control checks on media resources allow attackers to view and download media URLs without requiring authentication, which presents a privacy and data confidentiality risk.
